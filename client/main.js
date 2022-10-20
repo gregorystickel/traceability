@@ -26,4 +26,4 @@ function chkButton () {
         });
 }
 
-getRider.addEventListener(`click`, chkButton);
+//getRider.addEventListener(`click`, chkButton);
