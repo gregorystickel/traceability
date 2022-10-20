@@ -12,9 +12,9 @@ module.exports = {
 
     getJS: (req, res) => {
         res.sendFile(path.join(__dirname, '../client/main.js'))
-    }
-    getTest: (req, res =>) => {
-        
+    },
+    getTest: (req, res) => {
+
     }
  
 }
